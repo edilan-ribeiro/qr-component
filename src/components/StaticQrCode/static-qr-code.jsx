@@ -1,12 +1,10 @@
 import './static-qr-code.css'
 
-let qrImg = '/images/qr-code/image-qr-code.png'
-
 const QrComponent = () => {
 
     return (
         <div className='qr-container'>
-            <img src={qrImg} alt="QR code image" />
+            <img src='/images/qr-code/image-qr-code.png' alt="QR code image" />
             <h1 className='title' >
                 Improve your front-end skills by building projects
             </h1>
