@@ -14,7 +14,7 @@
 <br />
 <div align="center">
  <a href="https://github.com/github_username/qr-component">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./public/images/readme/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">QR code component - Frontend Mentor</h3>
@@ -47,7 +47,7 @@
 
 ## About The Project
 
- <img src="./src/public/images/design/desktop-design.jpg" alt="project on desktop" width="450" height="250">
+ <img src="./public/images/design/desktop-design.jpg" alt="project on desktop" width="450" height="250">
 
 Small project created to apply basic React concepts.
 
