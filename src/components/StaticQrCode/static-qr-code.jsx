@@ -1,6 +1,6 @@
 import './static-qr-code.css'
 
-let qrImg = './src/public/images/qr-code/image-qr-code.png'
+let qrImg = '/images/qr-code/image-qr-code.png'
 
 const QrComponent = () => {
 
