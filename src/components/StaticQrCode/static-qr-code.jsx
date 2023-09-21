@@ -4,7 +4,7 @@ const QrComponent = () => {
 
     return (
         <div className='qr-container'>
-            <img src='../public/images/qr-code/image-qr-code.png' alt="QR code image" />
+            <img src='/src/public/images/qr-code/image-qr-code.png' alt="QR code image" />
             <h1 className='title' >
                 Improve your front-end skills by building projects
             </h1>
