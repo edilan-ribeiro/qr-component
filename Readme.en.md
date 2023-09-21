@@ -23,7 +23,7 @@
     Static QR code
   </p>
   
-  <a href="https://github.com/edilan-ribeiro/----------">View Demo</a>
+  <a href="https://qr-component-coral.vercel.app/">View Demo</a>
 </div>
 
 <br>
