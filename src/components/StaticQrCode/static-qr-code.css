@@ -1,0 +1,28 @@
+.qr-container {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    width: 320px;
+}
+
+img {
+    width: 290px;
+    height: 290px;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 23px;
+    font-weight: 700;
+    padding: 15px;
+}
+
+p {
+    font-size: 15px;
+    padding: 5px 30px;
+    margin-bottom: 50px;
+    color: hsl(0, 0%, 51%)
+  }
